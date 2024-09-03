@@ -16,7 +16,7 @@ Minhas experiências anteriores na logística me proporcionaram uma perspectiva 
 
 ## 🌱 Atualmente Aprendendo
 
-- Java Avançado (Spring Framework, Hibernate)
+- Java Avançado (Spring Framework)
 - Arquitetura backend e padrões de design
 
 ## 💼 Experiência Profissional
@@ -25,9 +25,9 @@ Antes de mergulhar no mundo da tecnologia, tive uma carreira robusta na logísti
 
 ## 🎓 Formação
 
-- **Tecnólogo em Análise e Desenvolvimento de Sistemas**
-  - Uni/SENAI SC
-  - Previsão de Conclusão: 2025
+- **Superior em Análise e Desenvolvimento de Sistemas**
+  - UniSENAI SC
+  - Previsão de Conclusão: junho de 2025
 
 ## 📫 Vamos Conectar
 

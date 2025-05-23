@@ -14,8 +14,8 @@
 <br>
 
 <p align="center">
-  <a href="https://api.whatsapp.com/send?phone=+5584991604054">
-  <img src="img/Logo.png" alt="Liberato Sistemas" width="600" height="400">
+  <a href="https://portfolio-3-d-olive.vercel.app/" style="display: inline-block;">
+    <img src="img/Logo.png" alt="Liberato Sistemas" style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);">
   </a>
 </p>
 

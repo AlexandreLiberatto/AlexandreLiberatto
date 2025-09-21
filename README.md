@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <a href="https://portfolio-3-d-olive.vercel.app/" style="display: inline-block;">
+  <a href="https://alexandreliberatto.netlify.app/#" style="display: inline-block;">
     <img src="img/Logo.png" alt="Liberato Sistemas" style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);">
   </a>
 </p>
@@ -34,8 +34,12 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Smiling%20Face%20With%20Sunglasses.webp" alt="Smiling Face With Sunglasses" width="25" height="25" /> Sobre Mim 
 
- 
-Sou Alexandre Liberato, desenvolvedor backend residente em Florianópolis (SC), com formação em Análise e Desenvolvimento de Sistemas e uma sólida trajetória em liderança logística. Estou em transição de carreira, trazendo para a área de tecnologia minha capacidade de organização, resolução de problemas e foco em resultados.
+ Sou Alexandre Liberato, desenvolvedor formado em Análise e Desenvolvimento de Sistemas, pós-graduado em Engenharia de Software, com MBA em Inteligência Artificial e MBA em Administração Estratégica. Minha trajetória acadêmica me proporciona uma base sólida para atuar tanto no desenvolvimento de sistemas quanto na compreensão da estratégia por trás da tecnologia.
+
+Tenho experiência prática em Java, Spring Boot, React.js e PostgreSQL, além de interesse contínuo por arquitetura de sistemas, microsserviços e soluções em nuvem. Meu nível de inglês é intermediário, o que me permite acompanhar documentações, interagir em ambientes colaborativos e expandir minhas possibilidades de atuação.
+
+Busco minha primeira oportunidade como Desenvolvedor Júnior, onde poderei aplicar minhas habilidades técnicas, minha capacidade analítica e minha visão estratégica para contribuir com projetos desafiadores e de alto impacto. Estou disponível para oportunidades presenciais em Florianópolis (SC) e motivado a crescer junto com a equipe.
+
         
 Atualmente, trabalho como coordenador de logística na Superpan, mas estou 100% disponível para oportunidades presenciais em Florianópolis. Tenho transporte próprio e total flexibilidade para me adaptar à rotina da equipe.
         
@@ -214,20 +218,20 @@ Antes de mergulhar no mundo da tecnologia, tive uma carreira robusta na logísti
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation Cap" width="32" height="32" /> Formação Acadêmica
 
 ### **Graduação em Análise e Desenvolvimento de Sistemas**
-**Instituição:** UNISENAI  
-**Conclusão:** Junho de 2025  
+**Instituição:** Universidade UNISENAI  
+**Período:** 2023/2025  
 
-- Capacitação para desenvolvimento de sistemas completos, desde a concepção até a implementação, com foco em inovação, eficiência e qualidade.  
-- **Áreas de estudo:**
-  - Gestão Ágil de Projetos
-  - Arquitetura e Modelagem de Sistemas
-  - Computação em Nuvem
-  - Desenvolvimento Web e Sistemas Web
-  - Engenharia de Requisitos
-  - Segurança da Informação
-  - Sistemas Móveis e Distribuídos
-  - Projeto e Gerenciamento de Banco de Dados
-  - Interface Humano-Computador  
+### **Pós Graduação em Egenharia de Software**
+**Instituição:** Faculdade Líbano  
+**Período:** 2025/2026  
+
+### **MBA em Inteliência Artificial**
+**Instituição:** Faculdade Líbano 
+**Período:** 2025/2026  
+
+### **MBA em Administração Estratégica**
+**Instituição:** Faculdade Líbano 
+**Período:** 2025/2026 
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">

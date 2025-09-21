@@ -223,14 +223,14 @@ Antes de mergulhar no mundo da tecnologia, tive uma carreira robusta na logísti
 
 ### **Pós Graduação em Egenharia de Software**
 **Instituição:** Faculdade Líbano  
-**Período:** 2025/2026  
+**Período:** 2025/2026   
 
 ### **MBA em Inteliência Artificial**
 **Instituição:** Faculdade Líbano 
-**Período:** 2025/2026  
+**Período:** 2025/2026   
 
 ### **MBA em Administração Estratégica**
-**Instituição:** Faculdade Líbano 
+**Instituição:** Faculdade Líbano  
 **Período:** 2025/2026 
 
 <br><br>

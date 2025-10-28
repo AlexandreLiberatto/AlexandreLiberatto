@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://alexandreliberatto.netlify.app/#" style="display: inline-block;">
-    <img src="img/formatura.png" alt="Alexandre na Formatura" style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);">
+    <img src="https://raw.githubusercontent.com/AlexandreLiberatto/AlexandreLiberatto/main/img/formatura.png" alt="Alexandre na Formatura" style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);">
   </a>
 </p>
 

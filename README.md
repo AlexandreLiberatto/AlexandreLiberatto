@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://portfolio-3-d-olive.vercel.app/"><img src="https://readme-typing-svg.herokuapp.com/?lines=Bem-Vindo+ao+meu+Repositório!;&font=Poppins&center=true&width=900&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://alexandreliberatto.netlify.app/#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Bem-Vindo+ao+meu+Repositório!;&font=Poppins&center=true&width=900&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 <div align='center'>
   <h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone%20With%20Arrow.webp" alt="Mobile Phone With Arrow" width="32" height="32" />
@@ -15,13 +15,13 @@
 
 <p align="center">
   <a href="https://alexandreliberatto.netlify.app/#" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/AlexandreLiberatto/AlexandreLiberatto/main/img/formatura.png" alt="Alexandre na Formatura" style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);">
+    <img src="https://raw.githubusercontent.com/AlexandreLiberatto/AlexandreLiberatto/main/img/formatura.png" alt="Alexandre na Formatura" width="800" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);">
   </a>
 </p>
 
 
 <p align="center">
-  <a href="https://portfolio-3-d-olive.vercel.app/">
+  <a href="https://alexandreliberatto.netlify.app/#">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Código+bem+escrito+é+como+poesia,;+cada+linha+tem+seu+propósito.;&font=Poppins&center=true&width=900&height=120&color=58a6ff&vCenter=true&size=40">
   </a>
 </p>
